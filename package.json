@@ -11,7 +11,6 @@
   "scripts": {
     "test": "jest --no-cache --coverage",
     "start": "serverless offline start",
-    "postinstall": "serverless dynamodb install",
     "deploy-prod": "serverless --stage=production deploy"
   },
   "jest": {
