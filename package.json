@@ -1,7 +1,7 @@
 {
   "name": "serverless-graphql-typescript",
   "description": "A starting template for creating Serverless and TypeScript.",
-  "author": "CauseCode Technologies",
+  "author": "Eduard Castellanos",
   "license": "Apache-2.0",
   "version": "0.0.1",
   "repository": {
